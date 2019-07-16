@@ -1,7 +1,7 @@
 # Starter
 
-##Intro
+## Intro
+Just an exercise to get familiar with git.
+## Deployment
 
-##Deployment
-
-##Purpose
+## Purpose
