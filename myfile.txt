@@ -2,3 +2,4 @@ information
 myname:
 konna pap
 this are my info
+this is an exercise
