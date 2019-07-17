@@ -7,4 +7,6 @@ Just an exercise to get familiar with git.
 ## Purpose
 exercising git.
 
-##VERSION 1
+## VERSION 1
+
+# copyright
