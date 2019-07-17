@@ -2,5 +2,9 @@
  
  1)Konstantina Papadopoulou
  2).......another user ....
+<<<<<<< HEAD
  3)....
  4)4th user
+=======
+ 3)Third user
+>>>>>>> Adding the third member
