@@ -5,4 +5,6 @@ Just an exercise to get familiar with git.
 ## Deployment
 ......
 ## Purpose
-exercising git
+exercising git.
+
+##VERSION 1
