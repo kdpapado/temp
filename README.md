@@ -8,5 +8,6 @@ Just an exercise to get familiar with git.
 exercising git.
 
 ## VERSION 1
+this is version 1
 
 # copyright
