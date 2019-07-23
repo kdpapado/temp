@@ -4,3 +4,4 @@ konna pap
 this are my info
 this is an exercise for git course
 6th row
+7th row
